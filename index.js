@@ -1,4 +1,3 @@
-// console.log('hello, world');
 import { Card } from './components/Card.js';
 import { FormValidator } from './components/FormValidator.js';
 import { Section } from './components/Section.js';
@@ -139,5 +138,3 @@ document.addEventListener('click', (evt) => {
     popupImageOpened.close();
     }
 });
-
-console.log('Hello, world')
